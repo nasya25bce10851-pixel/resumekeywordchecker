@@ -38,42 +38,41 @@ The project follows a simple NLP-based approach:
 - Basic NLP Concepts  
 - Data Structures (Sets)  
 
-## 📂 Project Structure
+## Project Structure
 resume-keyword-checker/
 │── resume_checker.py  
 │── README.md  
 
-## ▶️ How to Run the Project
+## How to Run the Project
 Step 1: Install Python
 Make sure Python is installed on your system.
 
 Step 2: Run the Program
 
-## ✨ Features
+## Features
 - Easy to use  
 - Real-time keyword comparison  
 - Displays match percentage  
 - Identifies missing keywords  
 - Beginner-friendly implementation
   
-## ⚠️ Limitations
+## Limitations
 - Does not remove common words (like "the", "is")  
 - Does not handle synonyms (e.g., "developer" vs "development")  
 - Works only on exact keyword matching  
 
-## 🚀 Future Scope
+## Future Scope
 - Remove stopwords  
 - Add synonym matching  
 - Use advanced NLP libraries (NLTK, spaCy)  
 - Build GUI interface  
 - Convert to web application  
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - Understanding of NLP basics  
 - Text preprocessing techniques  
 - Use of Python data structures  
 - Real-world AI application  
 
-
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how simple NLP techniques can be used to solve real-world problems. It helps users improve their resumes by identifying missing keywords and increasing their chances of getting shortlisted.
