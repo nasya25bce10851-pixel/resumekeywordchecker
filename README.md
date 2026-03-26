@@ -3,7 +3,6 @@ Resume Keyword Checker is a beginner-friendly NLP-based project that analyzes ho
 # Resume Keyword Checker (NLP Project)
 
 ## Project Overview
-
 The Resume Keyword Checker is a beginner-friendly Natural Language Processing (NLP) project that analyzes how well a resume matches a given job description.
 In today’s recruitment process, many companies use Applicant Tracking Systems (ATS) to filter resumes based on keywords. If a resume does not contain relevant keywords, it may not get shortlisted. This project helps solve that problem by comparing resume content with job requirements.
 The system extracts keywords from both inputs and provides:
@@ -12,14 +11,12 @@ The system extracts keywords from both inputs and provides:
 - Missing keywords
 
 ## Objectives
-
 - Analyze resume content using basic NLP techniques  
 - Compare resume with job description  
 - Calculate similarity score  
 - Identify missing skills/keywords  
 
 ## Approach / Methodology
-
 The project follows a simple NLP-based approach:
 
 1. Text Preprocessing  
@@ -37,26 +34,22 @@ The project follows a simple NLP-based approach:
    - Match Score = (Matched Keywords / Total Job Keywords) × 100  
 
 ## ⚙️ Technologies Used
-
 - Python  
 - Basic NLP Concepts  
 - Data Structures (Sets)  
 
 ## 📂 Project Structure
-
 resume-keyword-checker/
 │── resume_checker.py  
 │── README.md  
 
 ## ▶️ How to Run the Project
-
 Step 1: Install Python
 Make sure Python is installed on your system.
 
 Step 2: Run the Program
 
 ## ✨ Features
-
 - Easy to use  
 - Real-time keyword comparison  
 - Displays match percentage  
@@ -64,13 +57,11 @@ Step 2: Run the Program
 - Beginner-friendly implementation
   
 ## ⚠️ Limitations
-
 - Does not remove common words (like "the", "is")  
 - Does not handle synonyms (e.g., "developer" vs "development")  
 - Works only on exact keyword matching  
 
 ## 🚀 Future Scope
-
 - Remove stopwords  
 - Add synonym matching  
 - Use advanced NLP libraries (NLTK, spaCy)  
@@ -78,7 +69,6 @@ Step 2: Run the Program
 - Convert to web application  
 
 ## 📚 Learning Outcomes
-
 - Understanding of NLP basics  
 - Text preprocessing techniques  
 - Use of Python data structures  
@@ -86,5 +76,4 @@ Step 2: Run the Program
 
 
 ## 📌 Conclusion
-
 This project demonstrates how simple NLP techniques can be used to solve real-world problems. It helps users improve their resumes by identifying missing keywords and increasing their chances of getting shortlisted.
